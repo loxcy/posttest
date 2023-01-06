@@ -2,6 +2,7 @@
 Auteur  == loxcy
 Version == 0.1
 Date    == 2023/01/01 
+Categories == python
 endmeta -->
 Tar
 ===
