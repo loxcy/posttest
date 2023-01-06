@@ -1,8 +1,8 @@
-<!-- 
+<!-- metastart
 Auteur  :: loxcy
 Version :: 0.1
 Date    :: 2023/01/01 
--->
+endmeta -->
 Tar
 ===
 La commande tar est un outil puissant qui permet de créer, d'extraire et de manipuler des archives en Linux et Unix. Elle est souvent utilisée pour compresser et décompresser des fichiers, mais elle peut également être utilisée pour fusionner plusieurs fichiers en un seul, pour créer des copies de sauvegarde de fichiers ou pour transférer des fichiers d'un ordinateur à un autre.
