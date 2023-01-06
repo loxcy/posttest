@@ -1,7 +1,7 @@
 <!-- metastart
-Auteur  :: loxcy
-Version :: 0.1
-Date    :: 2023/01/01 
+Auteur  == loxcy
+Version == 0.1
+Date    == 2023/01/01 
 endmeta -->
 Tar
 ===
