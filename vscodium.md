@@ -9,7 +9,6 @@ Preview == vscodium
 Résumé  == Cheatsheet des commandes et outils de VSCodium
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 VSCodium
 ===
 

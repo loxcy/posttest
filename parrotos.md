@@ -9,7 +9,6 @@ Preview == parrotos
 Résumé  == Cheatsheet des commandes et outils parrotos
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 Parrot OS
 ===
 

@@ -9,7 +9,6 @@ Preview == Python
 Résumé  == Cheatsheet pour le language Python
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 Python
 ===
 

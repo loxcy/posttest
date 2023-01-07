@@ -9,7 +9,6 @@ Preview == tails
 Résumé  == Cheatsheet des commandes et outils de Tails
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 Tails
 ===
 

@@ -9,7 +9,6 @@ Preview == gpg
 Résumé  == Cheatsheet des commandes et outils de GnuPG
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 GPG
 ===
 

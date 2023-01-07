@@ -9,7 +9,6 @@ Preview == Bash
 Résumé  == Cheatsheet pour le language bash
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 Bash
 ===
 
