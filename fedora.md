@@ -9,7 +9,6 @@ Preview == fedora
 Résumé  == Cheatsheet des commandes et outils de Fedora
 ---------------------------------------------------------------------------------------
 endmeta -->
-
 Fedora
 ===
 
